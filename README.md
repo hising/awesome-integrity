@@ -12,3 +12,6 @@ List with links to make private presence online easier
 * https://pi-hole.net/
 ## Firefox Settings
 * https://miketabor.com/enable-dns-over-https-and-encrypted-sni-in-firefox/
+## Browser Tools
+* https://blog.mozilla.org/firefox/facebook-container-extension/
+* https://support.brave.com/hc/en-us/articles/360018121491-What-is-a-Private-Window-with-Tor-
