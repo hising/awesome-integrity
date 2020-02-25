@@ -9,5 +9,6 @@ List with links to make private presence online easier
 * https://developers.cloudflare.com/1.1.1.1/dns-over-https/
 
 ## PiHole
+* https://pi-hole.net/
 ## Firefox Settings
 * https://miketabor.com/enable-dns-over-https-and-encrypted-sni-in-firefox/
