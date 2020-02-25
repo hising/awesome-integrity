@@ -15,3 +15,5 @@ List with links to make private presence online easier
 ## Browser Tools
 * https://blog.mozilla.org/firefox/facebook-container-extension/
 * https://support.brave.com/hc/en-us/articles/360018121491-What-is-a-Private-Window-with-Tor-
+## Firewalls
+* https://github.com/evilsocket/opensnitch
